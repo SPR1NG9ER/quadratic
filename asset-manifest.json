@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/quadratic/build/static/css/main.d70f4aa1.chunk.css",
+    "main.js": "/quadratic/build/static/js/main.e708d2c2.chunk.js",
+    "main.js.map": "/quadratic/build/static/js/main.e708d2c2.chunk.js.map",
+    "runtime-main.js": "/quadratic/build/static/js/runtime-main.ccce1565.js",
+    "runtime-main.js.map": "/quadratic/build/static/js/runtime-main.ccce1565.js.map",
+    "static/js/2.a4a06ab3.chunk.js": "/quadratic/build/static/js/2.a4a06ab3.chunk.js",
+    "static/js/2.a4a06ab3.chunk.js.map": "/quadratic/build/static/js/2.a4a06ab3.chunk.js.map",
+    "index.html": "/quadratic/build/index.html",
+    "static/css/main.d70f4aa1.chunk.css.map": "/quadratic/build/static/css/main.d70f4aa1.chunk.css.map",
+    "static/js/2.a4a06ab3.chunk.js.LICENSE.txt": "/quadratic/build/static/js/2.a4a06ab3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccce1565.js",
+    "static/js/2.a4a06ab3.chunk.js",
+    "static/css/main.d70f4aa1.chunk.css",
+    "static/js/main.e708d2c2.chunk.js"
+  ]
+}
