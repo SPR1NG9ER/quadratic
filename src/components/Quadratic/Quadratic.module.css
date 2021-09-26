@@ -1,0 +1,39 @@
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    min-height: calc(100vh - 78px);
+}
+
+.equationInput{
+    border: none;
+    outline: none;
+    display: inline-block;
+    min-width: 1em;
+    border-bottom: 1px solid black;
+    text-align: center;
+    font-size: 24px;
+}
+
+.separator{
+    margin: 0 0.5rem;
+}
+
+.resultButton{
+    display: block;
+    border: none;
+    background: #339DFF;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin: 15px auto;
+}
+
+.quadraticForm{
+    font-size: 24px;
+}

@@ -1,0 +1,50 @@
+.formula{
+    font-style: italic;
+    margin: 0.5em 0;
+}
+
+.hasFraction{
+    display: flex;
+    align-items: center;
+}
+
+.hasFraction sub{
+    align-self: self-end;
+}
+
+.fraction{
+    display: flex;
+    flex-direction: column;
+    margin: 0 0.5rem;
+    text-align: center;
+}
+
+.fraction span:nth-child(2){
+    border-top: 1px solid black;
+}
+
+.Answer{
+    font-size: 20px;
+}
+
+.theoretical{
+    margin: 2em 0;
+}
+
+.solve{
+}
+
+.hasResolve{
+    display: flex;
+    flex-direction: column;
+}
+
+.hasResolve > div{
+    display: flex;
+    line-height: 1.5;
+}
+
+.hasResolve > div sub{
+    align-self: flex-end;
+    line-height: 1;
+}
