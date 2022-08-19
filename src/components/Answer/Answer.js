@@ -29,7 +29,7 @@ const Answer = ({a, b, c}) => {
                 {answer.discriminant} = {b}<sup>2</sup> - ({4*a*c})
             </div>
             <div className={cn(styles.formula, styles.hasFraction)}>
-                x<sub>1,2</sub>= <div className={styles.fraction}><span>{b} ± √{answer.discriminant}</span><span>{2*a}</span></div>
+                x<sub>1,2</sub>= <div className={styles.fraction}><span>-({b}) ± √{answer.discriminant}</span><span>{2*a}</span></div>
             </div>
             <div className={styles.hasResolve}>
                 <div>x<sub>1</sub> = <div className={styles.fraction}>{answer.x1}</div></div>
