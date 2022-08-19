@@ -46,7 +46,7 @@ const Answer = ({a, b, c}) => {
                     D = b<sup>2</sup> - 4ac
                 </div>
                 <div className={cn(styles.formula, styles.hasFraction)}>
-                    x<sub>1,2</sub>= <div className={styles.fraction}><span>b ± √D</span><span>2a</span></div>
+                    x<sub>1,2</sub>= <div className={styles.fraction}><span>-b ± √D</span><span>2a</span></div>
                 </div>
             </div>
 
